@@ -1,0 +1,3 @@
+3-1-2016
+
+Today was busy.  I learned more about git.  I also learned about bat files, the command line, and html and css.
