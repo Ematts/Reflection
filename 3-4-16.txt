@@ -1,0 +1,3 @@
+3-4-16
+
+Today we learned about objects, functions, and classes.  Basically object-oriented programmining.  Also viewed presentations from other students.
