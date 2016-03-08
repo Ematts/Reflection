@@ -1,0 +1,3 @@
+3-7-16
+
+Today we learned about loops and class inheretince.
